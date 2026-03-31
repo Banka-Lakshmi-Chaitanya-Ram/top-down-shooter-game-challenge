@@ -72,6 +72,56 @@ After building, you can run the game on your device.
 
 ---
 
+## Gameplay Controls
+
+### 🕹️ Player Controls
+
+* **Move** → `W / A / S / D`
+* **Aim** → Mouse Movement
+* **Shoot / Fire** → Left Mouse Button
+* **Run** → Left Shift
+
+---
+
+### 🔫 Weapons & Actions
+
+* **Equip Weapon Slots**
+
+  * Slot 1 → `1`
+  * Slot 2 → `2`
+  * Slot 3 → `3`
+  * Slot 4 → `4`
+  * Slot 5 → `5`
+
+* **Reload** → `R`
+
+* **Drop Current Weapon** → `G`
+
+* **Toggle Weapon Mode** → `T`
+
+---
+
+### 🎮 Interaction
+
+* **Interact** → `F`
+
+---
+
+### 🧭 UI Controls
+
+* **Pause Menu** → `Esc`
+* **Mission Tooltip Toggle** → `H`
+
+---
+
+### 🚗 Vehicle Controls (Car)
+
+* **Move Car** → `W / A / S / D`
+* **Brake** → `Space`
+* **Exit Vehicle** → `F`
+
+---
+
 ## Author
 
 **Banka Lakshmi Chaitanya Ram**
